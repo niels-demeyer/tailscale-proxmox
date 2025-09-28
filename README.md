@@ -45,7 +45,3 @@ chmod +x tailscale-lxc.sh
 
 1. Reboot the container
 2. Run `tailscale up` inside the container to activate and authenticate
-
-## License
-
-MIT License - see the script header for full details.
